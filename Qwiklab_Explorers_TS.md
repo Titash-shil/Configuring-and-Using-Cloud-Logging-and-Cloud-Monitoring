@@ -1,4 +1,4 @@
-# || Configuring and Using Cloud Logging and Cloud Monitoring(https://www.cloudskillsboost.google/games/5735/labs/36647) ||
+# || [Configuring and Using Cloud Logging and Cloud Monitoring](https://www.cloudskillsboost.google/games/5735/labs/36647) ||
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
@@ -9,7 +9,11 @@
 
 ### Run the following Commands in CloudShell
 ```
+curl -LO raw.githubusercontent.com/Titash-shil/Configuring-and-Using-Cloud-Logging-and-Cloud-Monitoring/refs/heads/main/qwiklab_explorers_ts.sh
 
+sudo chmod +x qwiklab_explorers_ts.sh
+
+./qwiklab_explorers_ts.sh
 ```
 
 ---
